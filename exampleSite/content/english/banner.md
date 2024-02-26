@@ -1,25 +1,25 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "May Cristin Hutagalung"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "May"
+last_name : "Cristin"
+bg_image : "images/backgrounds/may 04.png"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Keep That Heart Open For Me :)"
+- "Santai Aja Ya Cian"
+- "9 1 3"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/may01.jpg"
+- "images/slider/may02.png"
+- "images/slider/may03.jpg"
 
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "Scroll Ke Bawah"
   link : "#contact"
 
 

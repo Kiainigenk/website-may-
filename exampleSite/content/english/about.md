@@ -1,10 +1,10 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : "For You"
+image : "images/backgrounds/may02.png"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
+  label : "IT WILL ALWAYS BE YOU"
   link : "#"
 
 ########################### Experience ##############################
@@ -13,43 +13,44 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Kecantikanmu"
+      company : ""
+      duration : "Sejak Bertemu Denganmu"
+      content : "Dari dulu aku dah suka samamu, jujur ku anggap diriku beruntung bisa bersama bidadari sepertimu FROM as always your man kia."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Sifatmu"
+      company : "I Love Your Attitude"
+      duration : "selamanya"
+      content : "mungkin kau menganggap dirimu ke kanak-kanakan tapi bagiku itu sempurna dan aku menghargai mu dengan sepenuh hati dan senang melihat senyum mu ."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "My Hope For You"
+      company : "My Love"
+      duration : "Semoga"
+      content : "Dek apapun yang kau harap dan impikan semoga terwujud yaa, apapun yg kau lakukan dan pilih selama kau senang. keinginan ku sudah terwujud 
+      ( no matter how far we are i will always love you)"
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "Rate"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Cantikmu"
+      percentage : "100%"
       
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
+    - name : "Sifatmu"
+      percentage : "100%"
       
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
+    - name : "My Hope For You"
+      percentage : "100%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "I Love You"
+      percentage : "100%"
 
 
 # custom style
@@ -58,4 +59,8 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It’s Hizkia, and i made this for you hope you like it babe <3
+a little Qoute for you “No matter how difficult our relationship i will always be here for you :)
+
+Hizkia To You
+February, 27th 2024 on 21.33am

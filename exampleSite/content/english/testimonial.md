@@ -2,22 +2,23 @@
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
-  image : "images/clients/client1.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "May Cristin Hutagalung"
+  image : "images/clients/may02.png"
+  designation : "IBRANI 11 : 1"
+  content : "ini belum berakhir sampai Tuhan berkata, “ini sudah berakhir.
+
+ “Iman adalah yakin terhadap apa yang kita harapkan dan yakin terhadap apa yang tidak kita lihat.”
+Bahkan ketika kamu tidak dapat melihatnya, Tuhan bekerja. Dia setia sampai akhir.
+Tuhan masih bekerja mendatangkan kebaikan terhadapmu, berhentilah kuatir dan mulailah percaya sepenuhnya kepada Tuhan.
+."
             
 # slider item loop
-- name : "Peter Parker"
-  image : "images/clients/client2.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Hizkia Panggabean"
+  image : "images/clients/hizkia.jpg"
+  designation : "Filipi 1 : 6"
+  content : "“Akan hal ini aku yakin sepenuhnya, yaitu Ia, yang memulai pekerjaan yang baik diantara kamu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.”."
             
-# slider item loop
-- name : "Jessica Jones"
-  image : "images/clients/client3.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
 
 # custom style
 custom_class: "" 
