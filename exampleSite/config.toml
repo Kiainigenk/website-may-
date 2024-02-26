@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://master--may0507.netlify.app/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
