@@ -62,5 +62,8 @@ custom_css: ""
 It’s Hizkia, and i made this for you hope you like it babe <3
 a little Qoute for you “No matter how difficult our relationship i will always be here for you :)
 
+Sampai kapan kamu akan lelah berlari di kepalaku ? <3
+
+
 Hizkia To You
 February, 27th 2024 on 21.33am
