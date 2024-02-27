@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Scroll Ke Bawah"
+  label : "Enjoy Reading Babe"
   link : "#contact"
 
 
