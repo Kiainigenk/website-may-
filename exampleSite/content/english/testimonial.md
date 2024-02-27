@@ -17,6 +17,12 @@ Tuhan masih bekerja mendatangkan kebaikan terhadapmu, berhentilah kuatir dan mul
   image : "images/clients/hizkia.jpg"
   designation : "Filipi 1 : 6"
   content : "“Akan hal ini aku yakin sepenuhnya, yaitu Ia, yang memulai pekerjaan yang baik diantara kamu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.”."
+
+# slider item loop
+- name : "Hizkia Panggabean"
+  image : "images/clients/hizkia.jpg"
+  designation : "Filipi 1 : 6"
+  content : "“Akan hal ini aku yakin sepenuhnya, yaitu Ia, yang memulai pekerjaan yang baik diantara kamu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.”."
             
 
 
