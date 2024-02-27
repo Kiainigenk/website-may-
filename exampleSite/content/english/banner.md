@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "Enjoy Reading Babe"
+  label : "Enjoy Reading Babe💕 "
   link : "#contact"
 
 
